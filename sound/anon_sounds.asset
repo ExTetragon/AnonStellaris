@@ -1,0 +1,361 @@
+#	素材解释
+sound =
+{
+	name = "anon_advisor_generic_phrase_1"
+	file = "vo/anon/advisor_generic_phrase_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_generic_phrase_2"
+	file = "vo/anon/advisor_generic_phrase_2.wav"
+}
+sound =
+{
+	name = "anon_advisor_generic_phrase_3"
+	file = "vo/anon/advisor_generic_phrase_3.wav"
+}
+sound =
+{
+	name = "anon_advisor_generic_phrase_4"
+	file = "vo/anon/advisor_generic_phrase_4.wav"
+}
+sound =
+{
+	name = "anon_advisor_generic_phrase_5"
+	file = "vo/anon/advisor_generic_phrase_5.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_alien_empire_communication_1"
+	file = "vo/anon/advisor_notification_alien_empire_communication_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_alien_empire_communication_2"
+	file = "vo/anon/advisor_notification_alien_empire_communication_2.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_alien_empire_communication_3"
+	file = "vo/anon/advisor_notification_alien_empire_communication_3.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_alien_federation_formed_1"
+	file = "vo/anon/advisor_notification_alien_federation_formed_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_alien_spaceport_engaged_1"
+	file = "vo/anon/advisor_notification_alien_spaceport_engaged_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_alien_vessel_encountered_1"
+	file = "vo/anon/advisor_notification_alien_vessel_encountered_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_building_ruined_1"
+	file = "vo/anon/advisor_notification_building_ruined_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_colonization_progress_1"
+	file = "vo/anon/advisor_notification_colonization_progress_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_colony_established_1"
+	file = "vo/anon/advisor_notification_colony_established_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_colony_ship_destroyed_1"
+	file = "vo/anon/advisor_notification_colony_ship_destroyed_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_colony_ship_under_attack_1"
+	file = "vo/anon/advisor_notification_colony_ship_under_attack_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_construction_complete_1"
+	file = "vo/anon/advisor_notification_construction_complete_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_construction_ship_destroyed_1"
+	file = "vo/anon/advisor_notification_construction_ship_destroyed_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_construction_ship_under_attack_1"
+	file = "vo/anon/advisor_notification_construction_ship_under_attack_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_debri_analysed_1"
+	file = "vo/anon/advisor_notification_debri_analysed_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_discovery_detected_1"
+	file = "vo/anon/advisor_notification_discovery_detected_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_enemy_declared_war_1"
+	file = "vo/anon/advisor_notification_enemy_declared_war_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_enemy_declared_war_2"
+	file = "vo/anon/advisor_notification_enemy_declared_war_2.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_enemy_declared_war_3"
+	file = "vo/anon/advisor_notification_enemy_declared_war_3.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_enemy_declared_war_4"
+	file = "vo/anon/advisor_notification_enemy_declared_war_4.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_enemy_invasion_defeated_1"
+	file = "vo/anon/advisor_notification_enemy_invasion_defeated_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_enemy_troops_landing_1"
+	file = "vo/anon/advisor_notification_enemy_troops_landing_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_evade_hostile_fleet_1"
+	file = "vo/anon/advisor_notification_evade_hostile_fleet_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_federation_formed_1"
+	file = "vo/anon/advisor_notification_federation_formed_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_fleet_detected_1"
+	file = "vo/anon/advisor_notification_fleet_detected_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_fleet_detected_2"
+	file = "vo/anon/advisor_notification_fleet_detected_2.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_generic_war_declare_1"
+	file = "vo/anon/advisor_notification_generic_war_declare_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_hostile_fleet_detected_1"
+	file = "vo/anon/advisor_notification_hostile_fleet_detected_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_hostile_fleet_engaged_1"
+	file = "vo/anon/advisor_notification_hostile_fleet_engaged_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_hostile_station_engaged_1"
+	file = "vo/anon/advisor_notification_hostile_station_engaged_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_incoming_transmission_1"
+	file = "vo/anon/advisor_notification_incoming_transmission_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_invasion_enemy_won_1"
+	file = "vo/anon/advisor_notification_invasion_enemy_won_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_invasion_failed_1"
+	file = "vo/anon/advisor_notification_invasion_failed_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_invasion_progress_1"
+	file = "vo/anon/advisor_notification_invasion_progress_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_invasion_success_1"
+	file = "vo/anon/advisor_notification_invasion_success_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_mining_station_lost_1"
+	file = "vo/anon/advisor_notification_mining_station_lost_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_observation_post_lost_1"
+	file = "vo/anon/advisor_notification_observation_post_lost_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_planet_in_revolt_1"
+	file = "vo/anon/advisor_notification_planet_in_revolt_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_player_declare_war_1"
+	file = "vo/anon/advisor_notification_player_declare_war_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_player_declare_war_2"
+	file = "vo/anon/advisor_notification_player_declare_war_2.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_player_declare_war_3"
+	file = "vo/anon/advisor_notification_player_declare_war_3.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_player_declare_war_4"
+	file = "vo/anon/advisor_notification_player_declare_war_4.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_player_declare_war_5"
+	file = "vo/anon/advisor_notification_player_declare_war_5.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_pre_sapient_uplifted_1"
+	file = "vo/anon/advisor_notification_pre_sapient_uplifted_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_primitive_enlighted_1"
+	file = "vo/anon/advisor_notification_primitive_enlighted_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_research_complete_1"
+	file = "vo/anon/advisor_notification_research_complete_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_research_station_lost_1"
+	file = "vo/anon/advisor_notification_research_station_lost_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_science_ship_destroyed_1"
+	file = "vo/anon/advisor_notification_science_ship_destroyed_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_science_ship_under_attack_1"
+	file = "vo/anon/advisor_notification_science_ship_under_attack_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_ships_upgraded_1"
+	file = "vo/anon/advisor_notification_ships_upgraded_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_situation_log_1"
+	file = "vo/anon/advisor_notification_situation_log_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_spacebourne_encounter_1"
+	file = "vo/anon/advisor_notification_spacebourne_encounter_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_spaceport_lost_1"
+	file = "vo/anon/advisor_notification_spaceport_lost_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_spaceport_under_attack_1"
+	file = "vo/anon/advisor_notification_spaceport_under_attack_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_special_project_complete_1"
+	file = "vo/anon/advisor_notification_special_project_complete_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_species_modified_1"
+	file = "vo/anon/advisor_notification_species_modified_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_station_under_attack_1"
+	file = "vo/anon/advisor_notification_station_under_attack_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_system_survey_complete_1"
+	file = "vo/anon/advisor_notification_system_survey_complete_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_tile_blocker_clear_1"
+	file = "vo/anon/advisor_notification_tile_blocker_clear_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_fleet_destroyed_1"
+	file = "vo/anon/advisor_notification_fleet_destroyed_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_debris_analysed_1"
+	file = "vo/anon/advisor_notification_debris_analysed_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_unidentified_object_1"
+	file = "vo/anon/advisor_notification_unidentified_object_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_notification_spaceborne_encounter_1"
+	file = "vo/anon/advisor_notification_spaceborne_encounter_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_tutorial_agenda_available_1"
+	file = "vo/anon/advisor_tutorial_agenda_available_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_tutorial_agenda_ready_1"
+	file = "vo/anon/advisor_tutorial_agenda_ready_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_tutorial_legendary_leader_1"
+	file = "vo/anon/advisor_tutorial_legendary_leader_1.wav"
+}
+sound =
+{
+	name = "anon_advisor_tutorial_planetary_governor_1"
+	file = "vo/anon/advisor_tutorial_planetary_governor_1.wav"
+}
