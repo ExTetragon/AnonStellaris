@@ -18,7 +18,7 @@ soundgroup =
 		advisor_notification_construction_complete = anon_advisor_notification_construction_complete
 		advisor_notification_construction_ship_destroyed = anon_advisor_notification_construction_ship_destroyed
 		advisor_notification_construction_ship_under_attack = anon_advisor_notification_construction_ship_under_attack
-		advisor_notification_debri_analysed = anon_advisor_notification_debri_analysed
+		advisor_notification_debris_analysed = anon_advisor_notification_debris_analysed
 		advisor_notification_discovery_detected = anon_advisor_notification_discovery_detected
 		advisor_notification_enemy_declared_war = anon_advisor_notification_enemy_declared_war
 		advisor_notification_enemy_invasion_defeated = anon_advisor_notification_enemy_invasion_defeated
@@ -56,7 +56,6 @@ soundgroup =
 		advisor_notification_system_survey_complete = anon_advisor_notification_system_survey_complete
 		advisor_notification_tile_blocker_clear = anon_advisor_notification_tile_blocker_clear
 		advisor_notification_fleet_destroyed = anon_advisor_notification_fleet_destroyed
-		advisor_notification_debris_analysed = anon_advisor_notification_debris_analysed
 		advisor_notification_unidentified_object = anon_advisor_notification_unidentified_object
 		advisor_notification_army_recruited = anon_advisor_notification_army_recruited
 	}
@@ -79,7 +78,7 @@ category = {
 		anon_advisor_notification_construction_complete
 		anon_advisor_notification_construction_ship_destroyed
 		anon_advisor_notification_construction_ship_under_attack
-		anon_advisor_notification_debri_analysed
+		anon_advisor_notification_debris_analysed
 		anon_advisor_notification_discovery_detected
 		anon_advisor_notification_enemy_declared_war
 		anon_advisor_notification_enemy_invasion_defeated

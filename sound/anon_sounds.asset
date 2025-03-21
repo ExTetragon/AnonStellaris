@@ -96,8 +96,8 @@ sound =
 }
 sound =
 {
-	name = "anon_advisor_notification_debri_analysed_1"
-	file = "vo/anon/advisor_notification_debri_analysed_1.wav"
+	name = "anon_advisor_notification_debris_analysed_1"
+	file = "vo/anon/advisor_notification_debris_analysed_1.wav"
 }
 sound =
 {
@@ -323,11 +323,6 @@ sound =
 {
 	name = "anon_advisor_notification_fleet_destroyed_1"
 	file = "vo/anon/advisor_notification_fleet_destroyed_1.wav"
-}
-sound =
-{
-	name = "anon_advisor_notification_debris_analysed_1"
-	file = "vo/anon/advisor_notification_debris_analysed_1.wav"
 }
 sound =
 {

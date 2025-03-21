@@ -136,9 +136,9 @@ soundeffect = {
 }
 
 soundeffect = {
-	name = anon_advisor_notification_debri_analysed
+	name = anon_advisor_notification_debris_analysed
 	sounds = {
-		weighted_sound = { sound = anon_advisor_notification_debri_analysed_1 weight = 1000 }
+		weighted_sound = { sound = anon_advisor_notification_debris_analysed_1 weight = 1000 }
 	}
 	volume = 0.45
 	max_audible = 1
@@ -517,16 +517,6 @@ soundeffect = {
 	name = anon_advisor_notification_tile_blocker_clear
 	sounds = {
 		weighted_sound = { sound = anon_advisor_notification_tile_blocker_clear_1 weight = 1000 }
-	}
-	volume = 0.45
-	max_audible = 1
-	max_audible_behaviour = fail
-}
-
-soundeffect = {
-	name = anon_advisor_notification_debris_analysed
-	sounds = {
-		weighted_sound = { sound = anon_advisor_notification_debris_analysed_1 weight = 1000 }
 	}
 	volume = 0.45
 	max_audible = 1
