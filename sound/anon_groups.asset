@@ -3,7 +3,8 @@ soundgroup =
 {
 	name = advisor_anon
 
-	soundeffectoverrides ={
+	soundeffectoverrides =
+	{
 		advisor_sample_voice_type = anon_advisor_generic_phrase
 		advisor_notification_alien_empire_communication = anon_advisor_notification_alien_empire_communication
 		advisor_notification_alien_federation_formed = anon_advisor_notification_alien_federation_formed
@@ -46,7 +47,7 @@ soundgroup =
 		advisor_notification_science_ship_under_attack = anon_advisor_notification_science_ship_under_attack
 		advisor_notification_ships_upgraded = anon_advisor_notification_ships_upgraded
 		advisor_notification_situation_log = anon_advisor_notification_situation_log
-		advisor_notification_spacebourne_encounter = anon_advisor_notification_spacebourne_encounter
+		advisor_notification_spaceborne_encounter = anon_advisor_notification_spaceborne_encounter
 		advisor_notification_spaceport_lost = anon_advisor_notification_spaceport_lost
 		advisor_notification_spaceport_under_attack = anon_advisor_notification_spaceport_under_attack
 		advisor_notification_special_project_complete = anon_advisor_notification_special_project_complete
@@ -57,17 +58,14 @@ soundgroup =
 		advisor_notification_fleet_destroyed = anon_advisor_notification_fleet_destroyed
 		advisor_notification_debris_analysed = anon_advisor_notification_debris_analysed
 		advisor_notification_unidentified_object = anon_advisor_notification_unidentified_object
-		advisor_notification_spaceborne_encounter =anon_advisor_notification_spaceborne_encounter
-		advisor_tutorial_agenda_available = anon_advisor_tutorial_agenda_available
-		advisor_tutorial_agenda_ready = anon_advisor_tutorial_agenda_ready
-		advisor_tutorial_legendary_leader = anon_advisor_tutorial_legendary_leader
-		advisor_tutorial_planetary_governor = anon_advisor_tutorial_planetary_governor
+		advisor_notification_army_recruited = anon_advisor_notification_army_recruited
 	}
 }
 #注册音效
 category = {
 	name = "Voice"
-	soundeffects = {
+	soundeffects = 
+	{
 		anon_advisor_generic_phrase
 		anon_advisor_notification_alien_empire_communication
 		anon_advisor_notification_alien_federation_formed
@@ -110,7 +108,7 @@ category = {
 		anon_advisor_notification_science_ship_under_attack
 		anon_advisor_notification_ships_upgraded
 		anon_advisor_notification_situation_log
-		anon_advisor_notification_spacebourne_encounter
+		anon_advisor_notification_spaceborne_encounter
 		anon_advisor_notification_spaceport_lost
 		anon_advisor_notification_spaceport_under_attack
 		anon_advisor_notification_special_project_complete
@@ -121,10 +119,5 @@ category = {
 		anon_advisor_notification_fleet_destroyed	
 		anon_advisor_notification_debris_analysed
 		anon_advisor_notification_unidentified_object
-		anon_advisor_notification_spaceborne_encounter
-		anon_advisor_tutorial_agenda_available
-		anon_advisor_tutorial_agenda_ready
-		anon_advisor_tutorial_legendary_leader
-		anon_advisor_tutorial_planetary_governor
 	}
 }

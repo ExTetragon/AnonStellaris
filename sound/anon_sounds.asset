@@ -281,8 +281,8 @@ sound =
 }
 sound =
 {
-	name = "anon_advisor_notification_spacebourne_encounter_1"
-	file = "vo/anon/advisor_notification_spacebourne_encounter_1.wav"
+	name = "anon_advisor_notification_spaceborne_encounter_1"
+	file = "vo/anon/advisor_notification_spaceborne_encounter_1.wav"
 }
 sound =
 {
@@ -336,26 +336,6 @@ sound =
 }
 sound =
 {
-	name = "anon_advisor_notification_spaceborne_encounter_1"
-	file = "vo/anon/advisor_notification_spaceborne_encounter_1.wav"
-}
-sound =
-{
-	name = "anon_advisor_tutorial_agenda_available_1"
-	file = "vo/anon/advisor_tutorial_agenda_available_1.wav"
-}
-sound =
-{
-	name = "anon_advisor_tutorial_agenda_ready_1"
-	file = "vo/anon/advisor_tutorial_agenda_ready_1.wav"
-}
-sound =
-{
-	name = "anon_advisor_tutorial_legendary_leader_1"
-	file = "vo/anon/advisor_tutorial_legendary_leader_1.wav"
-}
-sound =
-{
-	name = "anon_advisor_tutorial_planetary_governor_1"
-	file = "vo/anon/advisor_tutorial_planetary_governor_1.wav"
+	name = "anon_advisor_notification_army_recruited_1"
+	file = "vo/anon/advisor_notification_army_recruited_1.wav"
 }

@@ -6,7 +6,7 @@ soundeffect = {
 		weighted_sound = { sound = anon_advisor_generic_phrase_2 weight = 0 }
 		weighted_sound = { sound = anon_advisor_generic_phrase_3 weight = 1000 }
 		weighted_sound = { sound = anon_advisor_generic_phrase_4 weight = 1000 }
-		weighted_sound = { sound = anon_advisor_generic_phrase_5 weight = 0 }
+		weighted_sound = { sound = anon_advisor_generic_phrase_5 weight = 1000 }
 	}
 	volume = 0.45
 	max_audible = 1
@@ -202,6 +202,16 @@ soundeffect = {
 	name = anon_advisor_notification_federation_formed
 	sounds = {
 		weighted_sound = { sound = anon_advisor_notification_federation_formed_1 weight = 1000 }
+	}
+	volume = 0.45
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+soundeffect = {
+	name = anon_advisor_notification_fleet_destroyed
+	sounds = {
+		weighted_sound = { sound = anon_advisor_notification_fleet_destroyed_1 weight = 1000 }
 	}
 	volume = 0.45
 	max_audible = 1
@@ -434,9 +444,9 @@ soundeffect = {
 }
 
 soundeffect = {
-	name = anon_advisor_notification_spacebourne_encounter
+	name = anon_advisor_notification_spaceborne_encounter
 	sounds = {
-		weighted_sound = { sound = anon_advisor_notification_spacebourne_encounter_1 weight = 1000 }
+		weighted_sound = { sound = anon_advisor_notification_spaceborne_encounter_1 weight = 1000 }
 	}
 	volume = 0.45
 	max_audible = 1
@@ -512,15 +522,7 @@ soundeffect = {
 	max_audible = 1
 	max_audible_behaviour = fail
 }
-soundeffect = {
-	name = anon_advisor_notification_fleet_destroyed
-	sounds = {
-		weighted_sound = { sound = anon_advisor_notification_fleet_destroyed_1 weight = 1000 }
-	}
-	volume = 0.45
-	max_audible = 1
-	max_audible_behaviour = fail
-}
+
 soundeffect = {
 	name = anon_advisor_notification_debris_analysed
 	sounds = {
@@ -530,6 +532,7 @@ soundeffect = {
 	max_audible = 1
 	max_audible_behaviour = fail
 }
+
 soundeffect = {
 	name = anon_advisor_notification_unidentified_object
 	sounds = {
@@ -539,46 +542,11 @@ soundeffect = {
 	max_audible = 1
 	max_audible_behaviour = fail
 }
+
 soundeffect = {
-	name = anon_advisor_notification_spaceborne_encounter
+	name = anon_advisor_notification_army_recruited
 	sounds = {
-		weighted_sound = { sound = anon_advisor_notification_spaceborne_encounter_1 weight = 1000 }
-	}
-	volume = 0.45
-	max_audible = 1
-	max_audible_behaviour = fail
-}
-soundeffect = {
-	name = anon_advisor_tutorial_agenda_available
-	sounds = {
-		weighted_sound = { sound = anon_advisor_tutorial_agenda_available_1 weight = 1000 }
-	}
-	volume = 0.45
-	max_audible = 1
-	max_audible_behaviour = fail
-}
-soundeffect = {
-	name = anon_advisor_tutorial_agenda_ready
-	sounds = {
-		weighted_sound = { sound = anon_advisor_tutorial_agenda_ready_1 weight = 1000 }
-	}
-	volume = 0.45
-	max_audible = 1
-	max_audible_behaviour = fail
-}
-soundeffect = {
-	name = anon_advisor_tutorial_planetary_governor
-	sounds = {
-		weighted_sound = { sound = anon_advisor_tutorial_planetary_governor_1 weight = 1000 }
-	}
-	volume = 0.45
-	max_audible = 1
-	max_audible_behaviour = fail
-}
-soundeffect = {
-	name = anon_advisor_tutorial_legendary_leader
-	sounds = {
-		weighted_sound = { sound = anon_advisor_tutorial_legendary_leader_1 weight = 1000 }
+		weighted_sound = { sound = anon_advisor_notification_army_recruited weight = 1000 }
 	}
 	volume = 0.45
 	max_audible = 1
