@@ -21,11 +21,6 @@ sound =
 }
 sound =
 {
-	name = "anon_advisor_generic_phrase_5"
-	file = "vo/anon/advisor_generic_phrase_5.wav"
-}
-sound =
-{
 	name = "anon_advisor_notification_alien_empire_communication_1"
 	file = "vo/anon/advisor_notification_alien_empire_communication_1.wav"
 }

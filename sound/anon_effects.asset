@@ -3,10 +3,9 @@ soundeffect = {
 	name = anon_advisor_generic_phrase
 	sounds = {
 		weighted_sound = { sound = anon_advisor_generic_phrase_1 weight = 1000 }
-		weighted_sound = { sound = anon_advisor_generic_phrase_2 weight = 0 }
+		weighted_sound = { sound = anon_advisor_generic_phrase_2 weight = 1000 }
 		weighted_sound = { sound = anon_advisor_generic_phrase_3 weight = 1000 }
 		weighted_sound = { sound = anon_advisor_generic_phrase_4 weight = 1000 }
-		weighted_sound = { sound = anon_advisor_generic_phrase_5 weight = 1000 }
 	}
 	volume = 0.45
 	max_audible = 1
