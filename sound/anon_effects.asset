@@ -108,6 +108,7 @@ soundeffect = {
 	name = anon_advisor_notification_construction_complete
 	sounds = {
 		weighted_sound = { sound = anon_advisor_notification_construction_complete_1 weight = 1000 }
+		weighted_sound = { sound = anon_advisor_notification_construction_complete_2 weight = 1000 }
 	}
 	volume = 0.45
 	max_audible = 1
@@ -148,6 +149,8 @@ soundeffect = {
 	name = anon_advisor_notification_discovery_detected
 	sounds = {
 		weighted_sound = { sound = anon_advisor_notification_discovery_detected_1 weight = 1000 }
+		weighted_sound = { sound = anon_advisor_notification_discovery_detected_2 weight = 1000 }
+		weighted_sound = { sound = anon_advisor_notification_discovery_detected_3 weight = 1000 }
 	}
 	volume = 0.45
 	max_audible = 1
@@ -221,7 +224,6 @@ soundeffect = {
 	name = anon_advisor_notification_fleet_detected
 	sounds = {
 		weighted_sound = { sound = anon_advisor_notification_fleet_detected_1 weight = 1000 }
-		weighted_sound = { sound = anon_advisor_notification_fleet_detected_2 weight = 1000 }
 	}
 	volume = 0.45
 	max_audible = 1
@@ -352,10 +354,8 @@ soundeffect = {
 	name = anon_advisor_notification_player_declare_war
 	sounds = {
 		weighted_sound = { sound = anon_advisor_notification_player_declare_war_1 weight = 1000 }
-		weighted_sound = { sound = anon_advisor_notification_player_declare_war_2 weight = 1000 }
+		weighted_sound = { sound = anon_advisor_notification_player_declare_war_2 weight = 0 }
 		weighted_sound = { sound = anon_advisor_notification_player_declare_war_3 weight = 1000 }
-		weighted_sound = { sound = anon_advisor_notification_player_declare_war_4 weight = 1000 }
-		weighted_sound = { sound = anon_advisor_notification_player_declare_war_5 weight = 1000 }
 	}
 	volume = 0.45
 	max_audible = 1
@@ -386,6 +386,8 @@ soundeffect = {
 	name = anon_advisor_notification_research_complete
 	sounds = {
 		weighted_sound = { sound = anon_advisor_notification_research_complete_1 weight = 1000 }
+		weighted_sound = { sound = anon_advisor_notification_research_complete_2 weight = 1000 }
+		weighted_sound = { sound = anon_advisor_notification_research_complete_3 weight = 1000 }
 	}
 	volume = 0.45
 	max_audible = 1
@@ -436,6 +438,8 @@ soundeffect = {
 	name = anon_advisor_notification_situation_log
 	sounds = {
 		weighted_sound = { sound = anon_advisor_notification_situation_log_1 weight = 1000 }
+		weighted_sound = { sound = anon_advisor_notification_situation_log_2 weight = 1000 }
+		weighted_sound = { sound = anon_advisor_notification_situation_log_3 weight = 1000 }
 	}
 	volume = 0.45
 	max_audible = 1
@@ -506,6 +510,7 @@ soundeffect = {
 	name = anon_advisor_notification_system_survey_complete
 	sounds = {
 		weighted_sound = { sound = anon_advisor_notification_system_survey_complete_1 weight = 1000 }
+		weighted_sound = { sound = anon_advisor_notification_system_survey_complete_2 weight = 1000 }
 	}
 	volume = 0.45
 	max_audible = 1
@@ -535,7 +540,7 @@ soundeffect = {
 soundeffect = {
 	name = anon_advisor_notification_army_recruited
 	sounds = {
-		weighted_sound = { sound = anon_advisor_notification_army_recruited weight = 1000 }
+		weighted_sound = { sound = anon_advisor_notification_army_recruited_1 weight = 1000 }
 	}
 	volume = 0.45
 	max_audible = 1
