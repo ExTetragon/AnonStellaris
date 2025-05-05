@@ -1,8 +1,8 @@
-version="0.1"
+version="1.0.1"
 tags={
 	"Sound"
 }
-name="Anon Stellaris"
+name="MyGO顾问：千早爱音"
 picture="thumbnail.png"
-supported_version="v3.14.15926"
+supported_version="*"
 remote_file_id="3444880049"
